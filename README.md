@@ -7,7 +7,7 @@ This is a personal website about myself Refilwe Boiki. It specifies, my personal
 - And everthing thing else about me
 - The website was developed with these technologies
 - HMTL5
-- CCs3
+- CCS3
 - JavaScript
 - GIMP
 - Jekyll themes
