@@ -40,3 +40,8 @@ nav#sitenav{
   height:30px;
   background-image:radial-gradient(greenyellow, cyan, teal);
 }
+
+/*navigation elements*/
+ul#ulnav>li{
+  display:inline;
+  list-style-type:none;
