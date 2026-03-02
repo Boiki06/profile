@@ -1,5 +1,13 @@
+/*styling divmaincontainer*/
 div#divmaincontainer{
   width: 80%;
   margin: auto;
-  border: 5px solid green !important;
+  border: 5px solid green !important
 } 
+/*styling the header of the site*/
+header#siteheader{
+  width: 100%;
+  height: 150px;
+  background-image:linear-gradient(greenyellow, cyan, teal);
+  border:3px solid dark grey 
+}
